@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  simple-libcsp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: zaitra/simple-libcsp
+    container_name: simple-libcsp
+    volumes:
+      - ./:/home/simple-client-server
+    command: "bash"

@@ -1,0 +1,10 @@
+diff --git a/examples/buildall.py b/examples/buildall.py
+index 97cc7d1..c8a387f 100755
+--- a/examples/buildall.py
++++ b/examples/buildall.py
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/env python3
+ # encoding: utf-8
+ 
+ import subprocess

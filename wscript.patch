@@ -1,0 +1,10 @@
+diff --git a/wscript b/wscript
+index 80de973..abf1d92 100644
+--- a/wscript
++++ b/wscript
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/env python3
+ # encoding: utf-8
+ 
+ # Cubesat Space Protocol - A small network-layer protocol designed for Cubesats

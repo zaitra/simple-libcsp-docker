@@ -1,0 +1,10 @@
+diff --git a/waf b/waf
+index 4df5cdd..cf7979e 100755
+--- a/waf
++++ b/waf
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/env python3
+ # encoding: latin-1
+ # Thomas Nagy, 2005-2018
+ #
